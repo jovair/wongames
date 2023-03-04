@@ -4,7 +4,7 @@ export default {
     gutter: '3.2rem'
   },
   border: {
-    radius: '0.8rem'
+    radius: '0.4rem'
   },
   font: {
     family:
@@ -23,23 +23,16 @@ export default {
     }
   },
   colors: {
-    primary: '#FD7813',
-    secondary: '#FE3B08',
-    tertiary: '#26E55F',
-    quaternary: '#E2306C',
-    quinary: '#FEBB08',
-
+    primary: '#F231A5',
+    secondary: '#3CD3C1',
+    mainBg: '#06092B',
+    lightBg: '#F2F2F2',
     white: '#FAFAFA',
     black: '#030517',
-    darkGray: '#393939',
-    gray: '#787878',
-    mediumGray: '#949494',
-    lessGray: '#C7C7C7',
-    lightGray: '#E7E7E7',
-
-    bgColor: '#FAFAFA',
-    hover: '#F1A66D',
-    select: '#DE721F'
+    lightGray: '#EAEAEA',
+    gray: '#8F8F8F',
+    darkGray: '#2E2F42',
+    red: '#FF6347'
   },
   spacings: {
     xxsmall: '0.8rem',
